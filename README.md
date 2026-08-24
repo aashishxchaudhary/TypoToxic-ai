@@ -366,6 +366,7 @@ backend/
     server.js
     services/
     utils/
+CHANGELOG.md
 docs/
   assets/
     feedback4.png
@@ -393,3 +394,4 @@ package-lock.json
 README.md
 ```
 <!-- safepush-tree:end -->
+

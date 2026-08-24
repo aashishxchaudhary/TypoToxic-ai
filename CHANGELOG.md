@@ -3,13 +3,8 @@
 <!-- safepush-changelog:start -->
 ## Unreleased
 
-- ?? .gitignore
-- ?? README.md
-- ?? assests/
-- ?? backend/
-- ?? docs/
-- ?? frontend/
-- ?? package-lock.json
+- No local file changes detected yet.
 
 <!-- safepush-changelog:end -->
+
 
