@@ -78,3 +78,6 @@ Desktop.ini
 *.rej
 SafePushSecrets/
 safepush-backup-*/
+
+# SafePush local image source folders
+assests/
