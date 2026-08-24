@@ -3,19 +3,15 @@
 <!-- safepush-changelog:start -->
 ## Unreleased
 
-- M .gitignore
-- M CHANGELOG.md
-- MM README.md
-- R docs/assets/img1.png
-- R docs/assets/img2.png
-- R docs/assets/img3.png
-- R docs/assets/img4.png
-- ?? docs/assets/img1-2.png
-- ?? docs/assets/img2-2.png
-- ?? docs/assets/img3-2.png
-- ?? docs/assets/img4-2.png
+- M README.md
+- ?? docs/assets/img1-3.png
+- ?? docs/assets/img2-3.png
+- ?? docs/assets/img3-3.png
+- ?? docs/assets/img4-3.png
+- ?? docs/assets/img5.png
 
 <!-- safepush-changelog:end -->
+
 
 
 
